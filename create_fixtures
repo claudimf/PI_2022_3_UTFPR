@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+for file in ./crypto_games/fixtures/*.json
+do
+echo "removing fixture: $file"
+  rm "$file"
+done
+
+python manage.py dumpdata crypto_games.user --indent 2 > crypto_games/fixtures/001_users.json
+python manage.py dumpdata crypto_games.noticia --indent 2 > crypto_games/fixtures/002_noticia.json
+python manage.py dumpdata crypto_games.servico --indent 2 > crypto_games/fixtures/003_servico.json

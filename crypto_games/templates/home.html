@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}CryptoGames{% endblock %}
+
+{% block content %}   
+    {% for noticia in noticias %}
+        {% if noticia.foto %}
+            <a href="{% url 'noticia' noticia.pk %}">
+                <div class="m-4 text-center">
+                    <h2 class="text-center">{{noticia.titulo}}</h2>
+                    <img src="{{ noticia.foto.url }}" style="width: 600px; height: 600px">
+                </div>
+            </a> 
+        {% endif %}
+    {% endfor %}    
+{% endblock %}

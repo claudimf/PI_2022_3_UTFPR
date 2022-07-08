@@ -1,0 +1,42 @@
+[
+{
+  "model": "crypto_games.servico",
+  "pk": 1,
+  "fields": {
+    "nome": "Newsletter",
+    "preco": "59.90",
+    "descricao": "Newsletter",
+    "validade": 0
+  }
+},
+{
+  "model": "crypto_games.servico",
+  "pk": 2,
+  "fields": {
+    "nome": "Notificações Telegram",
+    "preco": "39.90",
+    "descricao": "Notificações Telegram",
+    "validade": 0
+  }
+},
+{
+  "model": "crypto_games.servico",
+  "pk": 3,
+  "fields": {
+    "nome": "Acesso colaborativo ao ranking de Projetos",
+    "preco": "49.90",
+    "descricao": "Acesso colaborativo ao ranking de Projetos",
+    "validade": 0
+  }
+},
+{
+  "model": "crypto_games.servico",
+  "pk": 4,
+  "fields": {
+    "nome": "Notificações de IDO's",
+    "preco": "79.90",
+    "descricao": "Notificações de IDO's",
+    "validade": 0
+  }
+}
+]
