@@ -1,0 +1,13 @@
+# Mostrar a árvore de pacotes
+pipdeptree==2.0.0
+
+# Demais bibliotecas
+pathlib==1.0.1
+requests==2.25.1
+bs4==0.0.1
+beautifulsoup4==4.9.3
+ftpretty==0.3.5
+pandas==1.3.2
+XlsxWriter==3.0.1
+pandas
+pytrends

@@ -1,4 +1,4 @@
-# Projeto Integrador 3 módulo ano 2022 "Python para negócios" UTFPR(Universidade Tecnológica Federal do Paraná).
+# Projeto Integrador 5 módulo "Python para negócios" UTFPR(Universidade Tecnológica Federal do Paraná).
 
 ## Requisitos das disciplinas ##
 
@@ -88,3 +88,21 @@ sudo chown -R $USER:$USER .
 ## Referências ##
 [1° Django + Docker](https://github.com/claudimf/django-docker)  
 [2° Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)  
+
+
+Relatório para assinantes:
+
+__ preencha a crypto
+
+
+Opções:
+() Tudo () Personalizado
+[ ] GoogleTrends
+[ ] BSCscan
+[ ] CoinGecko
+
+
+https://github.com/sodamodo/geospatial_docker_tutorial
+https://medium.com/@zack.noah/creating-a-geospatial-web-app-using-docker-django-and-postgis-975bc24e7a6b
+https://github.com/tlubenov/geodjango-postgis-nginx-docker
+https://github.com/ernestone/docker-compose_geodjango_postgres_nginx/blob/master/docker-compose.yml
