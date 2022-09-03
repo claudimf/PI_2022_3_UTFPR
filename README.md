@@ -106,3 +106,7 @@ https://github.com/sodamodo/geospatial_docker_tutorial
 https://medium.com/@zack.noah/creating-a-geospatial-web-app-using-docker-django-and-postgis-975bc24e7a6b
 https://github.com/tlubenov/geodjango-postgis-nginx-docker
 https://github.com/ernestone/docker-compose_geodjango_postgres_nginx/blob/master/docker-compose.yml
+https://medium.com/geekculture/easily-gather-google-trends-data-in-python-22219cecd6fc
+https://github.com/GeneralMills/pytrends
+https://pypi.org/project/pytrends/
+https://lazarinastoy.com/the-ultimate-guide-to-pytrends-google-trends-api-with-python/
